@@ -1,0 +1,13 @@
+ Volume in drive D is Work Space
+ Volume Serial Number is 9ADA-B35C
+
+ Directory of D:\Kbase\GIT_Repo\Sample
+
+20-10-2021  19:51    <DIR>          .
+20-10-2021  19:51    <DIR>          ..
+19-10-2021  20:46    <DIR>          Hello
+19-10-2021  20:41               156 Hello.java
+20-10-2021  19:51                 0 Prac1.txt
+20-10-2021  11:37                 0 Practice.txt
+               3 File(s)            156 bytes
+               3 Dir(s)  491,810,439,168 bytes free
