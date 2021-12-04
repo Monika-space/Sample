@@ -217,3 +217,4 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2021-11-29 14:20:49,395 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Kbase\Maven Workspace\Practice\practice\src\main\resources
 2021-11-29 14:20:49,396 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-11-29 14:20:49,396 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Kbase\Maven Workspace\Practice\practice\src\test\resources
+2021-12-04 10:39:11,561 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
