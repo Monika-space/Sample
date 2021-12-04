@@ -1,0 +1,13 @@
+package com.java.practice;
+
+public abstract class AbstractPrac {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+	
+	abstract void sound();
+
+}

@@ -1,0 +1,19 @@
+package com.java.practice;
+
+public abstract class Animal 
+{
+	
+	String name;
+	
+	Animal()
+	{
+		name = "Lion";
+		live(name);
+	}
+	public abstract void sound();
+	
+	public void live(String name)
+	{
+		System.out.println(name+" lives in Jungle");
+	}
+}
